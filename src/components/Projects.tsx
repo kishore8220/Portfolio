@@ -4,13 +4,13 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: "Breast Cancer Analysis Using Machine Learning",
+    title: "Lung Cancer Analysis Using Machine Learning",
     description: "A machine learning project focused on breast cancer detection and analysis using advanced algorithms.",
     image: "https://images.unsplash.com/photo-1576086213369-97a306d36557?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     tags: ["Python", "Machine Learning", "Data Analysis"],
     links: {
-      github: "https://github.com/kishore8220",
-      live: "#"
+      github: "https://github.com/kishore8220/Lung_Cancer_Prediction",
+      live: "https://github.com/kishore8220/Lung_Cancer_Prediction"
     }
   },
   {
@@ -19,8 +19,8 @@ const projects = [
     image: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     tags: ["Robotics", "C", "Hardware"],
     links: {
-      github: "https://github.com/kishore8220",
-      live: "#"
+      github: "https://github.com/kishore8220/Waste-Segregation-Robot-Using-Atmega2560",
+      live: "https://github.com/kishore8220/Waste-Segregation-Robot-Using-Atmega2560"
     }
   },
   {
@@ -29,8 +29,8 @@ const projects = [
     image: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     tags: ["IoT", "Python", "Hardware"],
     links: {
-      github: "https://github.com/kishore8220",
-      live: "#"
+      github: "https://github.com/kishore8220/Smart_Waste_Management_System",
+      live: "https://github.com/kishore8220/Smart_Waste_Management_System"
     }
   },
   {
@@ -39,8 +39,8 @@ const projects = [
     image: "https://images.unsplash.com/photo-1576086213369-97a306d36557?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     tags: ["Deep Learning", "Python", "Healthcare"],
     links: {
-      github: "https://github.com/kishore8220",
-      live: "#"
+      github: "https://github.com/kishore8220/Chest_X_Ray-Detection",
+      live: "https://github.com/kishore8220/Chest_X_Ray-Detection"
     }
   }
 ];
