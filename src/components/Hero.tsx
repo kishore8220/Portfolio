@@ -62,7 +62,7 @@ const Hero = () => {
                 View Projects
               </Link>
               <a
-                href="Kishore's.pdf"
+                href="/Kishore's.pdf"
                 download
                 className="flex items-center gap-2 bg-green-600 text-white px-8 py-3 rounded-lg hover:bg-green-700 transition-colors"
               >
@@ -80,7 +80,7 @@ const Hero = () => {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80">
               <img
-                src="22bam045.jpeg"
+                src="/22bam045.jpeg"
                 alt="Kishore B"
                 className="rounded-full w-full h-full object-cover shadow-2xl"
               />
