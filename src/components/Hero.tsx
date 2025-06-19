@@ -23,7 +23,7 @@ const Hero = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-2xl md:text-3xl text-gray-700 mb-8"
             >
-              B.SC AIML Student
+              GenAI Developer
             </motion.h2>
 
             <motion.p
@@ -32,7 +32,7 @@ const Hero = () => {
               transition={{ duration: 0.5, delay: 0.4 }}
               className="text-lg text-gray-600 mb-12 max-w-2xl"
             >
-              Passionate about using machine learning to solve real-world challenges. Currently pursuing B.Sc. in Artificial Intelligence & Machine Learning.
+             Passionate about solving real-world problems with machine learning. Focused on building impactful solutions as a Generative AI Developer.
             </motion.p>
 
             <motion.div
@@ -62,7 +62,7 @@ const Hero = () => {
                 View Projects
               </Link>
               <a
-                href="/Kishore's.pdf"
+                href="/Kishore.pdf"
                 download
                 className="flex items-center gap-2 bg-green-600 text-white px-8 py-3 rounded-lg hover:bg-green-700 transition-colors"
               >
@@ -80,7 +80,7 @@ const Hero = () => {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80">
               <img
-                src="/22bam045.jpeg"
+                src="22bam045.jpeg"
                 alt="Kishore B"
                 className="rounded-full w-full h-full object-cover shadow-2xl"
               />
