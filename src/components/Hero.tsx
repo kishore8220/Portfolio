@@ -62,7 +62,7 @@ const Hero = () => {
                 View Projects
               </Link>
               <a
-                href="/Kishore.pdf"
+                href="kishore's.pdf"
                 download
                 className="flex items-center gap-2 bg-green-600 text-white px-8 py-3 rounded-lg hover:bg-green-700 transition-colors"
               >
