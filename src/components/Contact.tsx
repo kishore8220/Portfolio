@@ -10,12 +10,6 @@ const Contact = () => {
 
   const contactInfo = [
     {
-      icon: <Phone className="w-6 h-6" />,
-      label: "Phone",
-      value: "8220505953",
-      href: "tel:8220505953"
-    },
-    {
       icon: <Mail className="w-6 h-6" />,
       label: "Email",
       value: "kdkishore91@gmail.com",
