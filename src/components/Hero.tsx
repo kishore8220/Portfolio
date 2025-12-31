@@ -80,7 +80,7 @@ const Hero = () => {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80">
               <img
-                src="22bam045.jpeg"
+                src="kishore_pic.jpg"
                 alt="Kishore B"
                 className="rounded-full w-full h-full object-cover shadow-2xl"
               />
